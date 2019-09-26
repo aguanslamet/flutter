@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'My flutter POC',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Mon POC flutter'),
+          title: Text('Flutter myBranch'),
         ),
         body: Center(
           child: (
