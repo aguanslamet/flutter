@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: (
-              Text('Voilà le pseudo que tu vas prendre SACCHING : ' + wordPair.asCamelCase)
+              Text('Suggestion d\'un pseudo : ' + wordPair.asCamelCase)
           ),
         ),
       ),
